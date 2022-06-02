@@ -1,0 +1,51 @@
+Flutter crash report; please file at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run --machine -t lib\main.dart -d 192.168.0.100:5555 --track-widget-creation --start-paused
+
+## exception
+
+SocketException: SocketException: Write failed (OS Error: The pipe is being closed.
+, errno = 232), port = 0
+
+```
+null```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel master, v1.8.2-pre.244, on Microsoft Windows [Version 6.3.9600], locale ro-RO)
+    • Flutter version 1.8.2-pre.244 at C:\flutter
+    • Framework revision 53a1f225ae (16 hours ago), 2019-07-31 09:58:28 -0400
+    • Engine revision b43178e3d6
+    • Dart version 2.5.0 (build 2.5.0-dev.1.0 80c4954d4d)
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 29.0.1)
+    • Android SDK at C:\Users\tfdg\AppData\Local\Android\sdk
+    • Android NDK location not configured (optional; useful for native profiling support)
+    • Platform android-29, build-tools 29.0.1
+    • Java binary at: C:\Program Files\Android\Android Studio1\jre\bin\java
+    • Java version OpenJDK Runtime Environment (build 1.8.0_152-release-1343-b01)
+    • All Android licenses accepted.
+
+[✓] Visual Studio - develop for Windows (Visual Studio Community 2019 16.2.0)
+    • Visual Studio at C:\Program Files (x86)\Microsoft Visual Studio\2019\Community
+    • Visual Studio Community 2019 version 16.2.29123.88
+
+[✓] Android Studio (version 3.4)
+    • Android Studio at C:\Program Files\Android\Android Studio1
+    • Flutter plugin version 37.1.1
+    • Dart plugin version 183.6270
+    • Java version OpenJDK Runtime Environment (build 1.8.0_152-release-1343-b01)
+
+[✓] VS Code (version 1.36.1)
+    • VS Code at C:\Users\tfdg\AppData\Local\Programs\Microsoft VS Code
+    • Flutter extension version 3.2.0
+
+[✓] Connected device (2 available)
+    • Gionee S Plus • 192.168.0.100:5555 • android-arm64 • Android 7.1.2 (API 25)
+    • Windows       • Windows            • windows-x64   • Microsoft Windows [Version 6.3.9600]
+
+• No issues found!
+```

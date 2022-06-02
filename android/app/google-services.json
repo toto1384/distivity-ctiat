@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "323341392",
+    "firebase_url": "https://distivity.firebaseio.com",
+    "project_id": "distivity",
+    "storage_bucket": "distivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323341392:android:a8d3e2f07ba40041",
+        "android_client_info": {
+          "package_name": "com.distivity.distivity_ctiat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323341392-dpehsd2n1all0tirlh0i1tdpu36h9vrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.distivity.distivity_ctiat",
+            "certificate_hash": "5c7e956e0aa9591dbe41562ccafa195144a3cc03"
+          }
+        },
+        {
+          "client_id": "323341392-ki1ii1fheoadufpv772ckuq6j484a44c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnZ5lVNE4GmO7MaxCXpiik4koO_HEL4ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323341392-ki1ii1fheoadufpv772ckuq6j484a44c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323341392-cuuivjghvtrdue3vttr8nirum6evn5kp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.distivity.distivityCtiat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323341392:android:d62c55d55c4f0349",
+        "android_client_info": {
+          "package_name": "com.distivity.productivitylauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323341392-sugof2cbhfkraho18g2jp9rlk0bt280f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.distivity.productivitylauncher",
+            "certificate_hash": "1af61ed21c8bf66c9c4d85bbe9108f5b1d7e7b40"
+          }
+        },
+        {
+          "client_id": "323341392-ki1ii1fheoadufpv772ckuq6j484a44c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnZ5lVNE4GmO7MaxCXpiik4koO_HEL4ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323341392-ki1ii1fheoadufpv772ckuq6j484a44c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323341392-cuuivjghvtrdue3vttr8nirum6evn5kp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.distivity.distivityCtiat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
